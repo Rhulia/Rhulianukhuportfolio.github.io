@@ -10142,3 +10142,8 @@ section.contact-section {
   padding-bottom: 5rem;
   max-width: 75rem;
 }
+section.contact-section .resume-section-content {
+  width: 100%;
+}
+
+
