@@ -10135,6 +10135,7 @@ section.resume-section .resume-section-content {
 }
 section.contact-section {
   display: flex;
+  justify-content: center;
   align-items: center;
   padding-left: 1rem;
   padding-right: 1rem;
@@ -10146,4 +10147,13 @@ section.contact-section .resume-section-content {
   width: 100%;
 }
 
+label {
+  width:180px;
+  clear:left;
+  text-align:center;
+  padding-right:10px;
+}
 
+input, label {
+  float:left;
+}
